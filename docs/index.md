@@ -2,4 +2,4 @@
 
 試験
 
-!(./kirari2.png)
+!(./kirari2.jpg)
