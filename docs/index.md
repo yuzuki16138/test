@@ -2,4 +2,4 @@
 
 試験
 
-!(./kirari2.jpg)
+!(./kirari2.jpg "ポップアップ文字")
